@@ -1,6 +1,6 @@
+# Lo aprendido de la section 4
 
-
-## Lo aprendido de la section 4
+**IMPORTANTE** Ctrl + k + v : esto visualiza markdown en una ventana.
 
 - [**Atajos aprendido de visual studio code**](/markdown/atajos-vscode.md)
 - [**comandos aprendidos de git**](/markdown/comandos-git.md)
