@@ -9,3 +9,17 @@
 - [**Explicación sobre las dependencias de package.json**](/markdown/dependecias.md)
 - [**¿ Como instalar otras versiones de paquetes npm ?**](/markdown/instalar-otras-versiones.md)
 - [**Explicacon sobre package.json**](/markdown/package-json.md)
+
+---
+
+### Nuestro primer programa en Node:
+
+```
+$ node app --help
+Opciones:
+      --help     Muestra ayuda                                        [booleano]
+      --version  Muestra número de versión                            [booleano]
+  -b, --base     Es la tabla de multiplicar                 [número] [requerido]
+  -h, --hasta    Indica el limite de la tabla             [número] [defecto: 10]
+  -l, --listar   Muestra la tabla en consola         [booleano] [defecto: false]
+```
