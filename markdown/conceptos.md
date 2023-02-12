@@ -30,4 +30,8 @@ npm install --save-dev cypress
 ~~~
 > En resumen a todo eso que usan el menos, ( - or -- ) se los conoce como banderas.
 
+---
+
+[Mirar enlace sobre async await](https://javascript.info/async-await)
+
 
