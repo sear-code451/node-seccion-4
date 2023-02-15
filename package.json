@@ -12,6 +12,8 @@
   "dependencies": {
     "add": "^2.0.6",
     "colors": "^1.4.0",
+    "inquirer": "^8.2.5",
+    "uuid": "^9.0.0",
     "yargs": "^17.6.2",
     "yarn": "^1.22.19"
   },

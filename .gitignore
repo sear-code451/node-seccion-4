@@ -2,3 +2,5 @@
 node_modules/
 
 /salidas/*.txt
+
+/seccion-5/db

@@ -1,5 +1,5 @@
 
-const fs = require('fs')
+const fs = require('fs');
 
 const base = 5;
 
@@ -17,7 +17,7 @@ const crearArchivo = ( base = 5 ) => {
             salida += `${base} x ${i} = ${base * i}\n`;
         }
         
-        resolve( salida,fs.writeFileSync( `tabla-${base}.txt`, salida ) );
+        resolve( salida, fs.writeFileSync( `tabla-${base}.txt`, salida ) );
     });
 }
 
